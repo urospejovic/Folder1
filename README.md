@@ -1,2 +1,2 @@
 # Folder1
-This if first folder
+This is the first folder
